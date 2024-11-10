@@ -16,7 +16,11 @@ body {
   justify-content: space-between;
 }
 
-
+.love-title{
+  display: flex;
+/*   align-items: center; */
+  justify-content: center;
+}
 
 /* стили заголовка */
 h1 {
